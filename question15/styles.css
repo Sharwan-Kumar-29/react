@@ -1,0 +1,39 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .nav-link {
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  
+  .content {
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .home {
+    background-color: #f0f8ff;
+  }
+  
+  .about {
+    background-color: #ffe4e1;
+  }
+  
+  .contact {
+    background-color: #f5f5dc;
+  }
+  
